@@ -1,0 +1,79 @@
+.primaryContainer {
+	font-family: 'Hind', sans-serif;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    min-height: 650px;
+    width: 100%;
+	
+	   background-color:#FCFCFC;
+    float: none;
+    clear: none;
+    position: relative;
+}
+
+#TopBarBack {
+    float: none;
+    height: 50px;
+    margin: 0px auto;
+    clear: none;
+    width: 100%;
+    min-height: 0px;
+    min-width: 0px;
+    background-color: rgb(60, 60, 60);
+}
+
+#TopBar {
+    float: none;
+    height: 50px;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    width: 1200px;
+	min-width:950px;
+	max-width:1250px;
+    background-color: rgb(46, 46, 46);
+
+    margin-right: auto;
+}
+
+#Sag {
+   
+	float: left;
+	height: 50px;
+	padding: 4px;
+	padding-top: 15px;
+	width: 250px;
+
+	
+}
+#Ilan {
+ 
+	float: left;
+	height: 50px;
+	padding: 8px;
+	padding-left:5px;
+	width: 275px;
+
+	
+}
+#Sol {
+    float: left;
+    height: 50px;
+    margin-left: 8px;
+ 
+    clear: none;
+    width: 260px;
+    margin-right: 0%;
+}
+
+#Orta {
+    float: left;
+    height: 50px;
+    margin-left: 0;
+    margin-top: 0px;
+    clear: none;
+    width: 400px;
+    margin-right: 0%;
+	padding:8px;
+}
